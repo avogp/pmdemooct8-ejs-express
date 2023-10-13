@@ -11,10 +11,10 @@ app.get("/", function (req, res) {
 
     //Dynamic homepage variables
   const friends = [
-    { name: "Ian", department: "Engineer", interest: "Dota" },
-    { name: "Jess", department: "Product Manager", interest: "Running" },
-    { name: "Kendra", department: "Product Operations", interest: "Drinking" },
-	 { name: "Charmaine", department: "Product Manager", interest: "Giving unsolicited advice" },
+    { name: "Boo", department: "Engineer", interest: "Dota" },
+    { name: "Bah", department: "Product Manager", interest: "Running" },
+    { name: "Booh", department: "Product Operations", interest: "Drinking" },
+	 { name: "Baaah", department: "Product Manager", interest: "Giving unsolicited advice" },
   ];
   const tagline = "These are my top 3 + 1 friends in OGP! ";
 
