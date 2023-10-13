@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# User-specific files
+.npmrc
+.npm/_logs/
+.npm/
+.env
+.env.local
+
+# Editor/IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment-specific files
+.env.development
+.env.test
+.env.production
+
+# Build files
+build/
+dist/
+.out/
+.cache/
+
+# Testing and coverage reports
+coverage/
+.nyc_output/
